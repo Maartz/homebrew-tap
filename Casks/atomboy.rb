@@ -1,6 +1,6 @@
 cask "atomboy" do
   version "0.3.0"
-  sha256 "c9d6321d524616c2d88def56238abe9e7ce9f282a82991c226286803c989f550"
+  sha256 "cf4550329b09b162ae55de7b91347c647fe3b3fd00bfc7e6aee59f7c6e79b16f"
 
   url "https://github.com/Maartz/atomboy/releases/download/v#{version}/Atomboy.app.zip"
   name "Atomboy"
